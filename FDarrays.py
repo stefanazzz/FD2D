@@ -1,5 +1,6 @@
 from pylab import *
 nx=  256; ny=128; npm=  12
+#nx=  128; ny=80; npm=  12
 v1=zeros([ny,nx])
 v2=zeros([ny,nx])
 s11=zeros([ny,nx])
